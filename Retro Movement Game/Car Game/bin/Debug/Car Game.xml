@@ -1,0 +1,201 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Car Game
+</name>
+</assembly>
+<members>
+<member name="T:Car_Game.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Asteroide_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Asteroide_2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Asteroide_3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Aumento">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Avião_Aliado">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Background_3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Background2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Carro_Inimigo_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Carro_Inimigo_2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Carro_Inimigo_3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Escolha">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Fundo_Carros">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Game_Over_Espaço">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Game_Over_Helicopetero">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Helicopter">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Helicoptero_Aliado">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Helicoptero_Menu">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Jogador1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Menu">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Menu1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Nave">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Perder">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Ponto">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.REGRAS_CARROS">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.REGRAS_HELI">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.REGRAS_NAVE">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.SETA_BAIXO">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.seta_cima_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.SETA_DIREITA_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.SETA_ESQUERDA5">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.SPACEBAR2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.Tiro">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.tumblr_inline_mns74aF5iR1qz4rgp540">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.UFO">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Car_Game.My.Resources.Resources.UFO_2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
